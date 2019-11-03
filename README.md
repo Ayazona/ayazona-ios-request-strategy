@@ -1,5 +1,5 @@
 
-This repository is part of the source code of Lyoneer. You can find more information at [lyoneer.com](https://lyoneer.com) or by contacting opensource@lyoneer.com.
+This repository is part of the source code of Ayazona. You can find more information at [ayazona.com](https://ayazona.com) or by contacting info@ayazona.com.
 
 # ayazona-ios-request-strategy
 
